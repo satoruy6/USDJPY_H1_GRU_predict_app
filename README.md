@@ -1,0 +1,2 @@
+# USDJPY_H1_GRU_predict_app
+GRUを使用した訓練済みモデルにより、USDJPYの1時間足を予測するアプリ
